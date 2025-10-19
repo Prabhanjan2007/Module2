@@ -99,7 +99,8 @@ int main()
 }
 ```
 # output
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/05c01c6f-4b74-47e5-b224-51e68ccbfaa0" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d20338cd-1f9c-4161-863d-dacf46863884" />
+
 
 # day 4
 Write a C program for the following pattern?
