@@ -2,7 +2,6 @@
 # day 1
 Get N from the user as input. Write a C Program to print the sum of N numbers using float data type.
 # program 
-#include <stdio.h>
 ```
 #include<stdio.h>
 int main()
