@@ -48,7 +48,8 @@ int main()
 }
 ```
 # output
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/6d6f7380-0e80-49cf-b101-fc58b62b14cb" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/aa0e2063-ab9c-4722-bd38-6410ec8ed45c" />
+
 
 # day 3
 Write a C program for finding the factorial of a given number using function without return type with arguments.
