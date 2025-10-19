@@ -75,7 +75,8 @@ int main()
 }
 ```
 # output
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/802bc196-5fce-47ce-a6d7-9e56f9828f24" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ae1496e4-3be0-4b93-8d17-53256fdf6fbd" />
+
 
 # day 4
 Write a C program to display n (input from user) number of multiplication table vertically using for loop?
