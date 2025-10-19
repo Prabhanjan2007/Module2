@@ -20,7 +20,8 @@ int main()
 }
 ```
 # output
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0d0c8cbe-61bf-492b-9835-f1942fd9aedd" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0c4f6c82-8ec0-418f-ac26-b8acdf2e618d" />
+
 
 # day 2
 Write a C program to print equilateral triangle or pyramid star pattern
